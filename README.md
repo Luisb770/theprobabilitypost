@@ -35,9 +35,7 @@ The Probability Post is a Python-based project that generates a weekly newslette
    ```
 
 3. **Run the Script**: Execute the main script to generate the newsletter:
-   ```bash
-   python main.py
-   ```
+  
 
 ## Functions and Usage
 
